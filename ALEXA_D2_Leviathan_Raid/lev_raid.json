@@ -1,0 +1,54 @@
+{
+    "2693136605": {
+        "power": 300,
+        "order": ["Gauntlet", "Pleasure Gardens", "Royal Pools"]
+    },
+    "2693136604": {
+        "power": 300,
+        "order": ["Gauntlet", "Royal Pools", "Pleasure Gardens"]
+    },
+    "2693136602": {
+        "power": 300,
+        "order": ["Pleasure Gardens", "Gauntlet", "Royal Pools"]
+    },
+    "2693136603": {
+        "power": 300,
+        "order": ["Pleasure Gardens", "Royal Pools", "Gauntlet"]
+    },
+    "2693136600": {
+        "power": 300,
+        "order": ["Royal Pools", "Gauntlet", "Pleasure Gardens"]
+    },
+    "2693136601": {
+        "power": 300,
+        "order": ["Royal Pools", "Pleasure Gardens", "Gauntlet"]
+    },
+    "1685065161": {
+        "power": 330,
+        "order": ["Gauntlet", "Pleasure Gardens", "Royal Pools"]
+    },
+    "757116822": {
+        "power": 330,
+        "order": ["Gauntlet", "Royal Pools", "Pleasure Gardens"]
+    },
+    "417231112": {
+        "power": 330,
+        "order": ["Pleasure Gardens", "Gauntlet", "Royal Pools"]
+    },
+    "3446541099": {
+        "power": 330,
+        "order": ["Pleasure Gardens", "Royal Pools", "Gauntlet"]
+    },
+    "2449714930": {
+        "power": 330,
+        "order": ["Royal Pools", "Gauntlet", "Pleasure Gardens"]
+    },
+    "3879860661": {
+        "power": 330,
+        "order": ["Royal Pools", "Pleasure Gardens", "Gauntlet"]
+    }
+
+
+
+
+}
